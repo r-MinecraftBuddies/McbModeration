@@ -7,10 +7,6 @@
 [![License](https://img.shields.io/github/license/r-MinecraftBuddies/McbModeration?color=blue)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/r-MinecraftBuddies/McbModeration?style=social)](https://github.com/r-MinecraftBuddies/McbModeration/stargazers)
 
-<img src="https://i.imgur.com/8VqjKGY.png" alt="MCB Moderation Bot Logo" width="150"/>
-
-*A powerful Discord moderation bot for the MinecraftBuddies community*
-
 [Join our Discord](https://discord.gg/t2q4BKyXGN) • [Visit Subreddit](https://www.reddit.com/r/MinecraftBuddies/) • [Report Bug](https://github.com/r-MinecraftBuddies/McbModeration/issues) • [Request Feature](https://github.com/r-MinecraftBuddies/McbModeration/issues)
 
 </div>
